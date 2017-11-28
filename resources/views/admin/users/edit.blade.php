@@ -11,7 +11,6 @@
         </div>
 
         <div class="col-sm-9">
-
             {!! Form::model($user, ['method'=>'PATCH', 'action'=> ['AdminUsersController@update', $user->id], 'files' => true]) !!}
 
             <div class="form-group">
@@ -58,7 +57,6 @@
 
             {!! Form::close() !!}
         </div>
-
     </div>
 
     <div class="row">
