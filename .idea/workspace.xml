@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f10bbbcf-3a70-4613-b8b1-e1a890d8e9eb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/comments/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/comments/replies/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/admin/comments/show.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/blog-home.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/layouts/blog-post.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/post.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/codehacking.iml" afterPath="$PROJECT_DIR$/.idea/codehacking.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/php.xml" afterPath="$PROJECT_DIR$/.idea/php.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminMediasController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminMediasController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Post.php" afterPath="$PROJECT_DIR$/app/Post.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css" afterPath="$PROJECT_DIR$/public/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/app.css.map" afterPath="$PROJECT_DIR$/public/css/app.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/assets/sass/app.scss" afterPath="$PROJECT_DIR$/resources/assets/sass/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/media/create.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/media/create.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/media/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/media/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,67 +22,40 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.4924357">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="post.blade.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/resources/views/post.blade.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="82">
-                  <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="admin.blade.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin.blade.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="202">
-                  <caret line="269" column="25" lean-forward="false" selection-start-line="269" selection-start-column="25" selection-end-line="269" selection-end-column="25" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/resources/views/admin/media/index.blade.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="208">
-                  <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Kernel.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Comment.php" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/Comment.php">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="216">
-                  <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="AdminPostsController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -133,8 +96,6 @@
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/gulpfile.js" />
-        <option value="$PROJECT_DIR$/config/app.php" />
-        <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/Http/Requests/UsersRequest.php" />
         <option value="$PROJECT_DIR$/resources/views/includes/form_error.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_11_26_105852_add_photo_id_to_users.php" />
@@ -164,23 +125,25 @@
         <option value="$PROJECT_DIR$/resources/views/admin/media/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/users/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Admin.php" />
-        <option value="$PROJECT_DIR$/app/Post.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/admin.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/blog-home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/blog-post.blade.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_11_29_065639_create_comments_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2017_11_29_065843_create_comment_replies_table.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/comments/index.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PostCommentsController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/comments/show.blade.php" />
         <option value="$PROJECT_DIR$/app/Comment.php" />
         <option value="$PROJECT_DIR$/app/Http/routes.php" />
         <option value="$PROJECT_DIR$/app/CommentReply.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" />
         <option value="$PROJECT_DIR$/resources/assets/sass/app.scss" />
         <option value="$PROJECT_DIR$/resources/views/post.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/CommentRepliesController.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Post.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/posts/index.blade.php" />
       </list>
     </option>
   </component>
@@ -258,10 +221,12 @@
       <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
       <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
       <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/cviebrock/eloquent-sluggable" />
+      <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
@@ -311,27 +276,6 @@
               <item name="codehacking" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
-            <path>
-              <item name="codehacking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codehacking" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="codehacking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codehacking" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="codehacking" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codehacking" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="admin" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="comments" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -341,7 +285,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="SearchEverywhereHistoryKey" value="app.sc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/assets/sass/app.scss&#10;post&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Post.php&#10;adminpo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;comment&#9;null&#9;null&#10;user&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/User.php&#10;commen&#9;null&#9;null&#10;adminpos&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;postco&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/PostCommentsController.php&#10;route&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/routes.php&#10;show&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/comments/show.blade.php&#10;admin&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;middle&#9;null&#9;null&#10;auth&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/config/auth.php&#10;show.&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/comments/show.blade.php&#10;postc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/PostCommentsController.php&#10;2017&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_29_065843_create_comment_replies_table.php&#10;co&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_29_065639_create_comments_table.php&#10;postC&#9;null&#9;null&#10;blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/media/index.blade.php&#10;pos&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Post.php&#10;blog-po&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/blog-post.blade.php&#10;admin.blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;kerne&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Kernel.php&#10;admin.blad&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;commentre&#9;null&#9;null&#10;comme&#9;null&#9;null&#10;2014&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_27_184701_create_categories_table.php&#10;kernel&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Kernel.php&#10;middleware&#9;null&#9;null&#10;request&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;controll&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminMediasController.php&#10;photo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Photo.php&#10;controller&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;req&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;login&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php&#10;home&#9;null&#9;null&#10;index&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/media/index.blade.php&#10;contro&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminUsersController.php&#10;create&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/media/create.blade.php&#10;edit&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/users/edit.blade.php&#10;cate&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminCategoriesController.php&#10;re&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;adminc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminCategoriesController.php&#10;index.blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/index.blade.php&#10;adminca&#9;null&#9;null&#10;201&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_27_184701_create_categories_table.php&#10;category&#9;null&#9;null&#10;Req&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/UsersEditRequest.php&#10;postcre&#9;null&#9;null&#10;Contro&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminUsersController.php" />
+    <property name="SearchEverywhereHistoryKey" value="index&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/posts/index.blade.php&#10;adminpo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;user&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/User.php&#10;AdminPo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;post&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Post.php&#10;app.php&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/config/app.php&#10;app.ph&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/bootstrap/app.php&#10;compo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/composer.json&#10;auth&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/config/auth.php&#10;app.sc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/assets/sass/app.scss&#10;comment&#9;null&#9;null&#10;commen&#9;null&#9;null&#10;adminpos&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;postco&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/PostCommentsController.php&#10;route&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/routes.php&#10;show&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/comments/show.blade.php&#10;admin&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;middle&#9;null&#9;null&#10;show.&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/comments/show.blade.php&#10;postc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/PostCommentsController.php&#10;2017&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_29_065843_create_comment_replies_table.php&#10;co&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_29_065639_create_comments_table.php&#10;postC&#9;null&#9;null&#10;blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/media/index.blade.php&#10;pos&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Post.php&#10;blog-po&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/blog-post.blade.php&#10;admin.blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;kerne&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Kernel.php&#10;admin.blad&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/layouts/admin.blade.php&#10;commentre&#9;null&#9;null&#10;comme&#9;null&#9;null&#10;2014&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_27_184701_create_categories_table.php&#10;kernel&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Kernel.php&#10;middleware&#9;null&#9;null&#10;request&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;controll&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminMediasController.php&#10;photo&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Photo.php&#10;controller&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminPostsController.php&#10;req&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;login&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/vendor/laravel/framework/src/Illuminate/Auth/Events/Login.php&#10;home&#9;null&#9;null&#10;contro&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminUsersController.php&#10;create&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/media/create.blade.php&#10;edit&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/users/edit.blade.php&#10;cate&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminCategoriesController.php&#10;re&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Requests/PostCreateRequest.php&#10;adminc&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/app/Http/Controllers/AdminCategoriesController.php&#10;index.blade&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/resources/views/admin/index.blade.php&#10;adminca&#9;null&#9;null&#10;201&#9;FILE&#9;file://C:/xampp/htdocs/codehacking/database/migrations/2017_11_27_184701_create_categories_table.php" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../cms" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
@@ -384,12 +328,12 @@
       <workItem from="1511898551820" duration="308000" />
       <workItem from="1511898897900" duration="252000" />
       <workItem from="1511899189216" duration="286000" />
-      <workItem from="1511899513695" duration="38166000" />
+      <workItem from="1511899513695" duration="46647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113699000" />
+    <option name="totallyTimeSpent" value="122180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,18 +345,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-7" y="0" width="697" height="745" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37291983" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35164836" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236715" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2917342" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7957861" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -435,25 +379,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/users/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/create.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/images/1511816350rp-01.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.759/Post.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1020">
@@ -676,14 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/auth.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1448">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Admin.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -724,14 +641,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/index.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/comments/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-742">
@@ -766,14 +675,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Post.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Comment.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -787,16 +688,8 @@
         <state relative-caret-position="1584">
           <caret line="88" column="47" lean-forward="false" selection-start-line="88" selection-start-column="47" selection-end-line="88" selection-end-column="47" />
           <folding>
-            <element signature="e#40#56#0#PHP" expanded="true" />
+            <element signature="e#40#56#0#PHP" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="147" column="68" lean-forward="false" selection-start-line="147" selection-start-column="68" selection-end-line="147" selection-end-column="68" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -808,26 +701,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/post.blade.php">
+    <entry file="file://$PROJECT_DIR$/config/auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="-854">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/User.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/post.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="49" column="18" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        <state relative-caret-position="126">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/media/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="124" column="0" lean-forward="false" selection-start-line="124" selection-start-column="0" selection-end-line="124" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="18" column="53" lean-forward="false" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="e#23#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminPostsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="33" lean-forward="false" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/posts/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
           <folding />
         </state>
       </provider>

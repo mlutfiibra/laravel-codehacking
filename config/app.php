@@ -124,7 +124,7 @@ return [
     'providers' => [
 
         Collective\Html\HtmlServiceProvider::class,
-
+        Cviebrock\EloquentSluggable\SluggableServiceProvider::class,
         /*
          * Laravel Framework Service Providers...
          */
