@@ -97,7 +97,7 @@ class AdminPostsController extends Controller
      * @param  int $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(PostCreateRequest $request, $id)
     {
         $input = $request->all();
 
@@ -126,7 +126,7 @@ class AdminPostsController extends Controller
     {
         $post = Post::findOrFail($id);
 
-        if($post->photo->file) {
+        if ($post->photo->file) {
             unlink(public_path() . $post->photo->file);
         }
 
@@ -135,5 +135,16 @@ class AdminPostsController extends Controller
         Session::flash('deleted_post', 'The post has been deleted');
 
         return redirect('/admin/posts');
+    }
+
+    public function post($id)
+    {
+        $post = Post::findOrFail($id);
+
+        $categories = Category::all();
+
+        $comments = $post->comments()->whereIsActive(1)->get();
+
+        return view('post', compact('post', 'categories', 'comments'));
     }
 }

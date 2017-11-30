@@ -16,7 +16,7 @@
 
     <link href="{{asset('css/libs.css')}}" rel="stylesheet">
 
-    @yield('style')
+    @yield('styles')
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -133,6 +133,10 @@
 
                             <li>
                                 <a href="{{ route('admin.posts.create') }}">Create Post</a>
+                            </li>
+
+                            <li>
+                                <a href="{{ route('admin.comments.index') }}">All Comments</a>
                             </li>
 
                         </ul>
@@ -324,7 +328,7 @@
 <script src="{{asset('js/libs.js')}}"></script>
 
 
-@yield('script')
+@yield('scripts')
 
 
 </body>

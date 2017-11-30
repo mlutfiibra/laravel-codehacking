@@ -35,7 +35,8 @@
                     {{--@endif--}}
 
                     <td>
-                        <img height="50px" src="{{$user->photo ? $user->photo->file : 'http://placehold.it/50x50'}}"
+                        <img height="50px"
+                             src="{{$user->photo ? $user->photo->file : 'http://via.placeholder.com/50x50'}}"
                              alt="">
                     </td>
                     <td><a href="{{route('admin.users.edit', $user->id)}}">{{$user->name}}</a></td>
